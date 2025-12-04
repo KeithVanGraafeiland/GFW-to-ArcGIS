@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250930</CreaDate><CreaTime>13374500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Spatial Analyst Tools.tbx\CreateConstantRaster" Date="20250930" Time="133745">CreateConstantRaster C:\GitHub\code-base\global_fishing_watch\GFW_Python_Package\gfw_constant_raster.tif 0 INTEGER 0.01 "-180 -90 180 90"</Process></lineage></DataProperties></Esri></metadata>
